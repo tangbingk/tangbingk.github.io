@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tangbingk&#39;s Blog</title>
-    <link>https://username.github.io/</link>
+    <link>https://tangbingk.github.io/</link>
     <description>Recent content on Tangbingk&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>731685340@qq.com (tangbingk)</managingEditor>
     <webMaster>731685340@qq.com (tangbingk)</webMaster>
     <lastBuildDate>Sun, 30 Jun 2019 16:46:18 +0800</lastBuildDate>
     
-	<atom:link href="https://username.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tangbingk.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>内存对齐介绍</title>
-      <link>https://username.github.io/posts/%E5%86%85%E5%AD%98%E5%AF%B9%E9%BD%90%E4%BB%8B%E7%BB%8D/</link>
+      <link>https://tangbingk.github.io/posts/%E5%86%85%E5%AD%98%E5%AF%B9%E9%BD%90%E4%BB%8B%E7%BB%8D/</link>
       <pubDate>Sun, 30 Jun 2019 16:46:18 +0800</pubDate>
       <author>731685340@qq.com (tangbingk)</author>
-      <guid>https://username.github.io/posts/%E5%86%85%E5%AD%98%E5%AF%B9%E9%BD%90%E4%BB%8B%E7%BB%8D/</guid>
+      <guid>https://tangbingk.github.io/posts/%E5%86%85%E5%AD%98%E5%AF%B9%E9%BD%90%E4%BB%8B%E7%BB%8D/</guid>
       <description>&lt;h2 id=&#34;什么是内存对齐&#34;&gt;什么是内存对齐？&lt;/h2&gt;
 
 &lt;p&gt;在现代处理器，比如在x86或ARM处理器中，基本 C 数据类型通常并不存储于内存中的随机字节地址。实际情况是，除 char 外，所有其他类型都有“对齐要求”：char 可起始于任意字节地址，2字节的 short 必须从偶数字节地址开始，4字节的int或float必须从能被4整除的地址开始，8字节的 long 和 double 必须从能被8整除的地址开始，指针也是对齐的：32位系统上指针为4字节，64位系统上为8字节。&lt;/p&gt;</description>
@@ -25,10 +25,10 @@
     
     <item>
       <title>About</title>
-      <link>https://username.github.io/about/</link>
+      <link>https://tangbingk.github.io/about/</link>
       <pubDate>Sun, 30 Jun 2019 15:44:51 +0800</pubDate>
       <author>731685340@qq.com (tangbingk)</author>
-      <guid>https://username.github.io/about/</guid>
+      <guid>https://tangbingk.github.io/about/</guid>
       <description>About this blog 发现自己写的学习笔记比较少，所以创建了一个博客来记录自己的学习。
 希望这个博客能够被填满。</description>
     </item>
